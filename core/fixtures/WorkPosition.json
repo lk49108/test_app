@@ -1,0 +1,16 @@
+[
+  {
+    "model" : "core.WorkPosition",
+    "pk" : 1,
+    "fields" : {
+      "name" : "Sjekac 1"
+    }
+  },
+  {
+    "model" : "core.WorkPosition",
+    "pk" : 2,
+    "fields" : {
+      "name" : "Sjekac 2"
+    }
+  }
+]

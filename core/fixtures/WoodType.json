@@ -1,0 +1,37 @@
+[
+    {
+      "model" : "core.WoodType",
+      "pk" : 1,
+      "fields" : {
+        "wood_name" : "Bukva"
+      }
+    },
+    {
+      "model" : "core.WoodType",
+      "pk" : 2,
+      "fields" : {
+        "wood_name" : "Hrast"
+      }
+    },
+    {
+      "model" : "core.WoodType",
+      "pk" : 3,
+      "fields" : {
+        "wood_name" : "Jela"
+      }
+    },
+      {
+      "model" : "core.WoodType",
+      "pk" : 4,
+      "fields" : {
+        "wood_name" : "Grab"
+      }
+    },
+    {
+      "model" : "core.WoodType",
+      "pk" : 5,
+      "fields" : {
+        "wood_name" : "Jasen"
+      }
+    }
+  ]
